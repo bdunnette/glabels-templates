@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Glabels-templates xmlns="http://glabels.org/xmlns/3.0/">
+  <Template brand="Avery" part="5428" size="Other" width="4in" height="6in" description="Multi-Purpose Labels">
+    <Label-rectangle id="0" width="0.75in" height="1in" round="0.025in" x_waste="0in" y_waste="0in">
+      <Markup-margin size="0in"/>
+      <Layout nx="4" ny="5" x0="0.5in" y0="0.42in" dx="0.75in" dy="1.075in"/>
+    </Label-rectangle>
+  </Template>
+</Glabels-templates>
